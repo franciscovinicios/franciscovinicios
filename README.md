@@ -1,7 +1,9 @@
-## Olá! Eu sou o Francisco Viniicios 👋
+## Hi! I'm Francisco Vinicios 👋
 
-- 🌱 Sou estudante de Front-end..
-- 😄 Pronouns: ele/dele
+- 😄 I'm in career transition
+- 📌 Rio de Janeiro - RJ / Brasil
+- 🌱 I am currently studying the front end.
+
 
 <div align="center">
   <a href="https://github.com/franciscovinicios">
