@@ -1,7 +1,7 @@
 ## Hi! I'm Francisco Vinicios 👋
 
 - 😄 I'm in career transition
-- 📌 Rio de Janeiro - RJ / Brasil
+- 📌 Lisbon - PT
 - 🌱 I am currently studying the front end.
 
 
